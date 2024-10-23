@@ -64,7 +64,7 @@
                                     <div class="input-group">
                                         <div class="input-group-text"><i class="fa-solid fa-phone"
                                                 style="color: rgb(37 98 174);"></i></div>
-                                        <input type="number" name="mobileno" class="form-control"
+                                        <input type="tel" name="mobileno" class="form-control"
                                             value="{{ old('mobileno') }}" required>
 
                                     </div>
